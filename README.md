@@ -1,6 +1,6 @@
 - @jacobkearin
 - EE student at Dunwoody College of Technology
-- Currently working on learning Python, C/C++ STX, Matlab, and more
+- Currently working with Python, C/C++ STX, Matlab, verilog, and more
 - reach me on twitter @jacobkearin
 
 <!---
