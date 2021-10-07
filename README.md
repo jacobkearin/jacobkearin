@@ -1,7 +1,7 @@
-- @jacobkearin
-- Electrical Engineering student at Dunwoody College of Technology
+# @jacobkearin
+## Electrical Engineering at Dunwoody College of Technology
 - Currently working with Python, C/C++ ST, Matlab, verilog, and others
-- interested in IoT, crypto technologies, electronic development
+- interested in IoT, crypto technologies, EV control systems, and general electronics development
 - reach me on twitter @jacobkearin
 
 <!---
