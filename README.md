@@ -2,7 +2,9 @@
 ### Electrical Engineering at Dunwoody College of Technology
 - Currently working with Python, C/C++ ST, Matlab, verilog, and others
 - interested in IoT, crypto technologies, EV control systems, and general electronics development
-- reach me on twitter @jacobkearin
+- reach me on:
+-   twitter @jacobkearin
+-   linkedin /jacobkearin
 
 <!---
 jacobkearin/jacobkearin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
