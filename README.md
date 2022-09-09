@@ -1,7 +1,7 @@
 ## Jacob Kearin
 ### Electrical Engineering at Dunwoody College of Technology
 - Currently working on skills in C/C++ STX, Python, verilog, Golang and more
-- interested in IoT, crypto technologies, EV control systems, and general electronics development. Dabbling in software on the side.
+- interested in IoT, crypto technologies, EV control systems, and hardware development. Dabbling in software on the side.
 - reach me on:
 - twitter @jacobkearin
 - linkedin /jacobkearin
