@@ -4,7 +4,7 @@
 - interested in IoT, crypto technologies, EV control systems, and hardware development. Dabbling in software on the side.
 - reach me on:
 - twitter @jacobkearin
-- linkedin /jacobkearin
+- linkedin/in/jacobkearin
 
 <!---
 jacobkearin/jacobkearin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
