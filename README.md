@@ -1,6 +1,6 @@
 ## Jacob Kearin
-### Electrical Design Engineer @ Sage Electrochromics
-- Currently working on skills in C/C++ STX, Python, verilog, MATLAB/Octave and more
+### personal account not associated with any business. 
+- Currently working on skills in C/C++, Python, verilog, MATLAB/Octave and more
 - interested in IoT, crypto technologies, EV control systems, and hardware design.
 - reach me on:
 - twitter @jacobkearin
