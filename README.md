@@ -1,6 +1,6 @@
 ## Jacob Kearin
 ### personal account not associated with any business. 
-- Currently working on skills in C/C++, Python, verilog, MATLAB/Octave and more
+- Currently working on skills in C/C++, Python, Verilog/SystemVerilog, MATLAB/Octave, Rust, and more
 - interested in IoT, crypto technologies, EV control systems, and hardware design.
 - reach me on:
 - twitter @jacobkearin
